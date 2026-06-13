@@ -33,57 +33,63 @@
   <img src="https://nestjs.com/img/logo-small.svg" alt="nestjs" width="40" height="40" />
 </a>
  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
-<hr>
+````html
+<div align="center">
 
-<h2 align="center">🚀 Developer Mindset</h2>
+<h2>🚀 Building Today, Innovating Tomorrow</h2>
 
-<p align="center">
-  <i>"First, solve the problem. Then, write the code."</i><br>
-  <b>— John Johnson</b>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+Enthusiast;Problem+Solver;Continuous+Learner;Open+Source+Explorer" alt="Typing SVG" />
 
-<h3>💡 What Drives Me</h3>
+<br><br>
 
-<ul>
-  <li>Building real-world web applications</li>
-  <li>Exploring Artificial Intelligence & Machine Learning</li>
-  <li>Solving Data Structures & Algorithms challenges</li>
-  <li>Learning modern technologies and frameworks</li>
-  <li>Contributing to impactful projects</li>
-</ul>
+<img src="https://img.shields.io/badge/Code-Java-orange?style=for-the-badge&logo=java"/>
+<img src="https://img.shields.io/badge/Frontend-React-blue?style=for-the-badge&logo=react"/>
+<img src="https://img.shields.io/badge/Backend-Spring-success?style=for-the-badge&logo=spring"/>
+<img src="https://img.shields.io/badge/Database-MySQL-blue?style=for-the-badge&logo=mysql"/>
+<img src="https://img.shields.io/badge/AI-ML-red?style=for-the-badge"/>
 
-<h3>🎯 Current Focus</h3>
+</div>
 
-<ul>
-  <li>🌐 Full Stack Development</li>
-  <li>🤖 AI-Powered Applications</li>
-  <li>☁️ Cloud Computing</li>
-  <li>📚 Data Structures & Algorithms</li>
-  <li>🚀 Open Source Contributions</li>
-</ul>
+---
 
-<h3>📈 2026 Goals</h3>
+### 👨‍💻 About Me
 
-<ul>
-  <li>Build 5+ production-ready projects</li>
-  <li>Contribute to open-source repositories</li>
-  <li>Master System Design fundamentals</li>
-  <li>Secure a Software Development Internship</li>
-  <li>Strengthen problem-solving and development skills</li>
-</ul>
+class Prabal {
+    String role = "B.Tech CSE Student";
+    String[] interests = {
+        "Full Stack Development",
+        "Artificial Intelligence",
+        "Cloud Computing",
+        "Open Source"
+    };
 
-<h3>⚡ Fun Fact</h3>
+    String motto = "Learn → Build → Improve → Repeat";
+}
 
-<p>
-  I believe consistency beats talent when talent doesn't work hard.
-</p>
 
-<h3>🌱 Learning Never Stops</h3>
 
-<p>
-  <i>"Every line of code is an opportunity to learn, improve, and create something meaningful."</i>
-</p>
 
-<hr>
+### 🎯 Mission 2026
+
+☑️ Build impactful real-world applications
+
+☑️ Contribute to Open Source
+
+☑️ Master System Design
+
+☑️ Secure a Software Development Internship
+
+☑️ Grow into a Software Engineer
+
+---
+
+<div align="center">
+
+### 💭 Quote of the Day
+
+<i>"Great software is built one commit at a time."</i>
+
+</div>
 ```
+
 
