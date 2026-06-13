@@ -33,9 +33,57 @@
   <img src="https://nestjs.com/img/logo-small.svg" alt="nestjs" width="40" height="40" />
 </a>
  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+<hr>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prabal2101&show_icons=true&locale=en&layout=compact" alt="prabal2101" /></p>
+<h2 align="center">🚀 Developer Mindset</h2>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prabal2101&show_icons=true&locale=en" alt="prabal2101" /></p>
+<p align="center">
+  <i>"First, solve the problem. Then, write the code."</i><br>
+  <b>— John Johnson</b>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prabal2101&" alt="prabal2101" /></p>
+<h3>💡 What Drives Me</h3>
+
+<ul>
+  <li>Building real-world web applications</li>
+  <li>Exploring Artificial Intelligence & Machine Learning</li>
+  <li>Solving Data Structures & Algorithms challenges</li>
+  <li>Learning modern technologies and frameworks</li>
+  <li>Contributing to impactful projects</li>
+</ul>
+
+<h3>🎯 Current Focus</h3>
+
+<ul>
+  <li>🌐 Full Stack Development</li>
+  <li>🤖 AI-Powered Applications</li>
+  <li>☁️ Cloud Computing</li>
+  <li>📚 Data Structures & Algorithms</li>
+  <li>🚀 Open Source Contributions</li>
+</ul>
+
+<h3>📈 2026 Goals</h3>
+
+<ul>
+  <li>Build 5+ production-ready projects</li>
+  <li>Contribute to open-source repositories</li>
+  <li>Master System Design fundamentals</li>
+  <li>Secure a Software Development Internship</li>
+  <li>Strengthen problem-solving and development skills</li>
+</ul>
+
+<h3>⚡ Fun Fact</h3>
+
+<p>
+  I believe consistency beats talent when talent doesn't work hard.
+</p>
+
+<h3>🌱 Learning Never Stops</h3>
+
+<p>
+  <i>"Every line of code is an opportunity to learn, improve, and create something meaningful."</i>
+</p>
+
+<hr>
+```
+
