@@ -53,10 +53,6 @@ class Prabal {
 <h3>💭 Quote of the Day</h3>
 
 <i>"Great software is built one commit at a time."</i>
-
 <br><br>
-
-<b>⚡ Consistency beats talent when talent doesn't work hard.</b>
-
 </div>
-```
+
